@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="cpeISYIYZUkOvCi9xgJj">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-7" value="" style="shape=mxgraph.pid.vessels.drum_or_condenser;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="335" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-4" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="456" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-1" value="超声波流量计：温度Tn、表内绝压Pn、旁路流量速度Qn" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.ultrasonic;" vertex="1" parent="1">
+          <mxGeometry x="365" y="466" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-2" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="265" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-3" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-5" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="475" y="410" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-8" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="205" y="410" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="302" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="437" width="80" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-13" value="主路流量Qm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="146" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-14" value="旁路流量Qn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="407" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="380" y="115" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-17" value="压差：△Pm = P1-P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="322" y="214" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
