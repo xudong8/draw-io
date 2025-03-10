@@ -103,8 +103,8 @@
             <mxPoint x="154" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qh-8jtC_bbukPa5vGqPG-42" value="流量调节阀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="54" y="852" width="78" height="26" as="geometry" />
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-42" value="流量调节阀:Vm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="44" y="852" width="99" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qh-8jtC_bbukPa5vGqPG-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -112,8 +112,8 @@
             <mxPoint x="572" y="807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qh-8jtC_bbukPa5vGqPG-44" value="标准流量计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="576" y="861" width="78" height="26" as="geometry" />
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-44" value="标准流量计:Qc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="567" y="861" width="97" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qh-8jtC_bbukPa5vGqPG-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="328" y="787" width="20" height="28" as="geometry" />
@@ -127,8 +127,17 @@
         <mxCell id="qh-8jtC_bbukPa5vGqPG-49" value="Dn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="897" width="33" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="358" y="680" width="20" height="120" as="geometry" />
+        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="231" y="816" width="278" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="208" y="816" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-3" value="Wn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="853" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-4" value="Ln" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="831" width="31" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
