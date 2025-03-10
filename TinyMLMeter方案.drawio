@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="cpeISYIYZUkOvCi9xgJj">
-    <mxGraphModel dx="1050" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="752" dy="524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,90 @@
         </mxCell>
         <mxCell id="qh-8jtC_bbukPa5vGqPG-17" value="压差：△Pm = P1-P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="322" y="214" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-18" value="" style="shape=mxgraph.pid.vessels.drum_or_condenser;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="786" width="584.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-19" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="229.5" y="907" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-20" value="超声波流量计：温度Tn、表内绝压Pn、旁路流量速度Qn" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.ultrasonic;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="917" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-21" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="209.5" y="716" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-22" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="721" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-23" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="861" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-24" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="184.5" y="861" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133.5" y="745" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-26" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="888" width="80" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-27" value="主路流量Qm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116.5" y="729" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-28" value="旁路流量Qn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="858" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="566" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-30" value="压差：△Pm = P1-P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="665" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-33" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=motor;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="118" y="769" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-34" value="入口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="48" y="764" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-35" value="出口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="607" y="762" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-36" value="主路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="758" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-39" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11910;points=[[0.5,0,0],[0.5,1,0]];direction=south;" vertex="1" parent="1">
+          <mxGeometry x="547" y="787" width="54.26" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104" y="858" as="sourcePoint" />
+            <mxPoint x="154" y="808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-42" value="流量调节阀" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="54" y="852" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="616" y="866" as="sourcePoint" />
+            <mxPoint x="572" y="807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-44" value="标准流量计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="861" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="328" y="787" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-46" value="Dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="789" width="37" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=east;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="509.5" y="902.5" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qh-8jtC_bbukPa5vGqPG-49" value="Dn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="897" width="33" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
