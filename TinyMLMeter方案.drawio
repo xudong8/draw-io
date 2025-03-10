@@ -127,6 +127,9 @@
         <mxCell id="qh-8jtC_bbukPa5vGqPG-49" value="Dn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="897" width="33" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="_zhZ8hhD_PrmMUDlQ0WQ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="358" y="680" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
