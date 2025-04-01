@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="oSzv-MNwIdyoCOyah9a0">
-    <mxGraphModel dx="649" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="366" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xc5HwtYUv8VB5vv1GFga-48" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="18" y="273" width="312" height="128" as="geometry" />
+          <mxGeometry x="18" y="269" width="312" height="128" as="geometry" />
         </mxCell>
         <mxCell id="xc5HwtYUv8VB5vv1GFga-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="18" y="131" width="312" height="128" as="geometry" />
         </mxCell>
         <mxCell id="xc5HwtYUv8VB5vv1GFga-1" value="ESL 2.0主控板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="140" width="120" height="200" as="geometry" />
+          <mxGeometry x="370" y="146" width="120" height="234" as="geometry" />
         </mxCell>
         <mxCell id="xc5HwtYUv8VB5vv1GFga-3" value="&lt;div&gt;积成&lt;/div&gt;超声波基表" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="100" height="100" as="geometry" />
@@ -46,11 +46,11 @@
         <mxCell id="xc5HwtYUv8VB5vv1GFga-10" value="GND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="267" y="176" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="xc5HwtYUv8VB5vv1GFga-15" value="RX" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="xc5HwtYUv8VB5vv1GFga-15" value="RX" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="268" y="195" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="xc5HwtYUv8VB5vv1GFga-16" value="TX" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="267" y="218" width="30" height="10" as="geometry" />
+        <mxCell id="xc5HwtYUv8VB5vv1GFga-16" value="TX" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="267" y="219" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xc5HwtYUv8VB5vv1GFga-17" value="&lt;div&gt;天信&lt;/div&gt;&lt;div&gt;腰轮流量计&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="286" width="100" height="100" as="geometry" />
@@ -85,10 +85,10 @@
         <mxCell id="xc5HwtYUv8VB5vv1GFga-23" value="GND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="267" y="312" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="xc5HwtYUv8VB5vv1GFga-24" value="A+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="xc5HwtYUv8VB5vv1GFga-24" value="A+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="268" y="331" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="xc5HwtYUv8VB5vv1GFga-25" value="B-" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="xc5HwtYUv8VB5vv1GFga-25" value="B-" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="267" y="354" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xc5HwtYUv8VB5vv1GFga-29" value="Pn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
