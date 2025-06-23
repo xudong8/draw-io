@@ -1,9 +1,105 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="gNPYSdaQ9u78TwIIByc1">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-1" value="" style="shape=mxgraph.pid.vessels.drum_or_condenser;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="584.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-2" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="401" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-3" value="超声波流量计：温度Tn、表内绝压Pn、旁路流量速度Qn" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.ultrasonic;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="411" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-4" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="210" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-5" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;P2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;25&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; valign=&quot;bottom&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;align=center;dashed=1;shape=mxgraph.pid2inst.indicator;mounting=room;overflow=fill;indType=inst;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="535.5" y="215" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-6" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="355" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-7" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="355" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="239" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="382" width="80" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-10" value="主路流量Qm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="223" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-11" value="旁路流量Qn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="352" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="60" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-13" value="压差：△Pm = P1-P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="159" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-14" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=motor;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="174" y="263" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-15" value="入口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104" y="258" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-16" value="出口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="663" y="256" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-17" value="主路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="252" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-18" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11910;points=[[0.5,0,0],[0.5,1,0]];direction=south;" vertex="1" parent="1">
+          <mxGeometry x="603" y="281" width="54.26" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="352" as="sourcePoint" />
+            <mxPoint x="210" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-20" value="流量调节阀:Vm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="346" width="99" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="672" y="360" as="sourcePoint" />
+            <mxPoint x="628" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-22" value="标准流量计:Qc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="623" y="355" width="97" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="384" y="281" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-24" value="Dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="283" width="37" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=east;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="565.5" y="396.5" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-26" value="Dn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="391" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="287" y="310" width="278" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="264" y="310" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-29" value="Wn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="347" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lsmvS0CfhMq5OXHmO86n-30" value="Ln" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="325" width="31" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
