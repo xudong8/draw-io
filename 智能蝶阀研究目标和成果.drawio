@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="QePSi0WvvwqOzXnJHrXC">
-    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="738" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="MB8YyC2LHqcA_exUZN-U-2" value="问题及需求" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MB8YyC2LHqcA_exUZN-U-3" value="关键技术" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="MB8YyC2LHqcA_exUZN-U-3" value="关键技术分析" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MB8YyC2LHqcA_exUZN-U-5" value="预期成果" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -76,8 +76,14 @@
         <mxCell id="ncNB8pNAF4bFNKYcvx3l-26" value="非用气阶段" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ncNB8pNAF4bFNKYcvx3l-27" value="应用领域" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ncNB8pNAF4bFNKYcvx3l-27" value="应用场景" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ncNB8pNAF4bFNKYcvx3l-28" value="智能蝶阀设备1套、示范项目1个、完整性设计资料包1套、专利申请1项、软著2项、验收总结报告1份" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ncNB8pNAF4bFNKYcvx3l-29" value="1.商业综合体用气场景：用气量大、时间集中、夜晚存在明显非用气阶段，实时监测，保障供气稳定。&lt;div&gt;2.学校、社区等公共用气场景：用气时间规律，结合动态诊断，提前调整维保策略&lt;/div&gt;&lt;div&gt;3.居民生活用气场景，用气时间相对分散，精准识别压力波动，快速消除隐患&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="730" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
